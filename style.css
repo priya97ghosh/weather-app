@@ -1,0 +1,17 @@
+body {
+  min-height: 100vh;
+  color: white;
+  font-family: sans-serif;
+  background-image: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
+}
+.contentArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.degree_Section {
+  cursor: pointer;
+}
+.form-control::placeholder {
+  color: #fff !important;
+}
